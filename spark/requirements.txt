@@ -1,0 +1,6 @@
+# Dependencias de spark/reportes_operativos.py (instaladas en la imagen de spark/Dockerfile).
+pyspark==3.5.3
+pyarrow==17.0.0
+pandas==2.2.3
+numpy==1.26.4
+pyproj==3.7.0

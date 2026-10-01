@@ -1,0 +1,13 @@
+.env
+*.pgpass
+.pgpass
+
+spark/output/
+*.jar
+spark-warehouse/
+metastore_db/
+derby.log
+__pycache__/
+*.pyc
+
+docs/
